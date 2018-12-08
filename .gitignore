@@ -1,0 +1,5 @@
+env
+gitlab_token
+chat_ids.json
+projects_state.json
+__pycache__
