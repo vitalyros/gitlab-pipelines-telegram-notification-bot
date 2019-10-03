@@ -1,0 +1,15 @@
+#Python
+env
+__pycache__
+
+# Don't put your gitlab token to git
+gitlab_token
+# And Don't put your telegram token to git either
+telegram_token
+
+# Temporary state
+chat_ids.json
+projects_state.json
+
+# IDE's
+.vscode
